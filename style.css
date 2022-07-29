@@ -11,4 +11,8 @@
     .accordion-part {
         width: 100% !important;
     }
+
+    .moal-button {
+        padding: 10px auto !important;
+    }
 }
